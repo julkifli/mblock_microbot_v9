@@ -8,6 +8,9 @@ in the shortest possible time.
 
 MiCROBOT developed MiCROBOT v9 for the begginer.
 
+istallation:
+Download microbot_v9.zip and put it as extention of mblock ver3.4
+
 
 ![alt_tag](https://raw.githubusercontent.com/julkifli/mblock_microbot_v9/main/mblock.png)
 
